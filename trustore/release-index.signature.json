@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "algorithm": "ed25519",
+  "signedFile": "release-index.json",
+  "checksum": "sha256:33b7dc0851b78e97d74b4418dd4020a0d587113795f1ad3a18d170240605072a",
+  "value": "SuUzXzV9LSLBGEc1ab+cRPwW+ufnEVnPRiJaEFu9DZUHcWjx887o9B9aWV70JFQF46gB5OKobnAGpsvhoCYgCQ=="
+}

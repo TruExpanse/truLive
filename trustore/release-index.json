@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "channel": "trustore-wordpress",
+  "generatedAt": "2026-05-26T09:41:06.573Z",
+  "publicIndexUrl": "https://raw.githubusercontent.com/TruExpanse/truLive/main/trustore/release-index.json",
+  "version": {
+    "wordpress": "0.1.4"
+  },
+  "wordpress": {
+    "artifacts": [
+      {
+        "package": "truestore-plugin",
+        "version": "0.1.4",
+        "filename": "truestore-plugin-0.1.4.zip",
+        "checksum": "sha256:233225250ecea298e0c8837181e1a147ff82c025c4789d9c28be18a2254f2f16",
+        "entryCount": 5,
+        "mainFile": "truestore-plugin/truestore.php"
+      },
+      {
+        "package": "truexpanse-export-adapter",
+        "version": "0.1.4",
+        "filename": "truexpanse-export-adapter-0.1.4.zip",
+        "checksum": "sha256:11dc8ce077ace0e600eca21a3dd0c0f01fd2cb4832910ee240ce36a1de510cab",
+        "entryCount": 3,
+        "mainFile": "truexpanse-export-adapter/truestore-truexpanse-export-adapter.php"
+      }
+    ]
+  },
+  "download": {
+    "strategy": "private-update-service",
+    "endpoint": "https://updates.truexpanse.dev/trustore/v1/download"
+  }
+}
