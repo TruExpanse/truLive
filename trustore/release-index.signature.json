@@ -2,6 +2,6 @@
   "schemaVersion": 1,
   "algorithm": "ed25519",
   "signedFile": "release-index.json",
-  "checksum": "sha256:36095c6a76debe507f8ad84be638f2ebda038af49f8f1674734fe013f028c754",
-  "value": "cSnKCVYd4eh9byZCtZW3DCmUg8ax7UnZQiUIOFrbL7wODUHzIqX9OZqhNrHAIe7Gh+78l11o5XLP7Qs6iFfWCw=="
+  "checksum": "sha256:54345341232c5ab81b845ab5ef541338b2f8c7ca5463e51bfdb4c141173e28af",
+  "value": "fiI1tMCQWmqW7MjUzGw0p25WB2feNABrD2ylFOLQ4uujsH2MnslqDWtU/z1S3rtgDrvJr396tAy2rVdwLvewDA=="
 }
