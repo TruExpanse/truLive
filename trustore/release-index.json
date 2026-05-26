@@ -5,27 +5,27 @@
     "wordpress",
     "frontend"
   ],
-  "generatedAt": "2026-05-26T19:33:53.271Z",
+  "generatedAt": "2026-05-26T19:49:46.150Z",
   "publicIndexUrl": "https://raw.githubusercontent.com/TruExpanse/truLive/main/trustore/release-index.json",
   "version": {
-    "wordpress": "0.1.6",
-    "frontend": "0.1.6"
+    "wordpress": "0.1.7",
+    "frontend": "0.1.7"
   },
   "wordpress": {
     "artifacts": [
       {
         "package": "truestore-plugin",
-        "version": "0.1.6",
-        "filename": "truestore-plugin-0.1.6.zip",
-        "checksum": "sha256:bb5b7029ac1123dafc0d4476b7e5a5a948a2a487c7a5f6647effcbb75b95e964",
+        "version": "0.1.7",
+        "filename": "truestore-plugin-0.1.7.zip",
+        "checksum": "sha256:40e30835feb156869fa1a073f226ec8ca16ba5862036a00c22d19d145e5a4c80",
         "entryCount": 5,
         "mainFile": "truestore-plugin/truestore.php"
       },
       {
         "package": "truexpanse-export-adapter",
-        "version": "0.1.6",
-        "filename": "truexpanse-export-adapter-0.1.6.zip",
-        "checksum": "sha256:c38a402553109e61354eb794a80af54dd195ee0c6e46b5aa3213f6d6d503d3f7",
+        "version": "0.1.7",
+        "filename": "truexpanse-export-adapter-0.1.7.zip",
+        "checksum": "sha256:a264d19748417d3f3ab1c06f42319e18269d99e22e25e8cd398be0771506db1e",
         "entryCount": 3,
         "mainFile": "truexpanse-export-adapter/truestore-truexpanse-export-adapter.php"
       }
@@ -33,29 +33,29 @@
   },
   "frontend": {
     "package": "@truexpanse/trustore-core",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "artifacts": [
       {
         "package": "@truexpanse/trustore-core",
         "role": "package",
-        "version": "0.1.6",
-        "filename": "truexpanse-trustore-core-0.1.6.tgz",
-        "checksum": "sha256:cfb25f8f937bfd255de04e203dc531bf0e398f6d0380ed12a200fc70174f2f1c",
+        "version": "0.1.7",
+        "filename": "truexpanse-trustore-core-0.1.7.tgz",
+        "checksum": "sha256:c5c58d8671f4e38b896a29cd517c46fe5202cdf67d1a025cf7ca62f7f7dbf473",
         "fileCount": 6
       },
       {
         "package": "@truexpanse/trustore-frontend-template",
         "role": "template",
-        "version": "0.1.6",
-        "filename": "truexpanse-trustore-frontend-template-0.1.6.tgz",
-        "checksum": "sha256:2ee51b6e3733a26c42d49cfecf0e13a52e62f67456a2a42358c759e0bcc4e473",
+        "version": "0.1.7",
+        "filename": "truexpanse-trustore-frontend-template-0.1.7.tgz",
+        "checksum": "sha256:19e6bf6e77927e48671001a0acd5b31960039d4720bbcd0de3f84148e1c5d4bd",
         "fileCount": 496
       }
     ],
     "manifest": {
       "schemaVersion": 1,
       "package": "@truexpanse/trustore-core",
-      "version": "0.1.6",
+      "version": "0.1.7",
       "requires": {
         "truexpanseExportContract": ">=2.2 <3",
         "astro": ">=6 <7",
@@ -63,9 +63,9 @@
       },
       "migrations": [],
       "checksums": {
-        "@truexpanse/trustore-core": "sha256:cfb25f8f937bfd255de04e203dc531bf0e398f6d0380ed12a200fc70174f2f1c",
-        "@truexpanse/trustore-upgrade-cli": "sha256:c0cc322c3ed6f281bffd8d3cee9b9471c13b348fb98da5faa39bf7d9040ab5a6",
-        "@truexpanse/trustore-frontend-template": "sha256:2ee51b6e3733a26c42d49cfecf0e13a52e62f67456a2a42358c759e0bcc4e473"
+        "@truexpanse/trustore-core": "sha256:c5c58d8671f4e38b896a29cd517c46fe5202cdf67d1a025cf7ca62f7f7dbf473",
+        "@truexpanse/trustore-upgrade-cli": "sha256:b2d850bca13672efdc7649b24144a41f948e75414b1141c9c646e267d0436f2f",
+        "@truexpanse/trustore-frontend-template": "sha256:19e6bf6e77927e48671001a0acd5b31960039d4720bbcd0de3f84148e1c5d4bd"
       },
       "protectedData": {
         "guard": true
