@@ -1,26 +1,26 @@
 {
   "schemaVersion": 1,
   "channel": "trustore-wordpress",
-  "generatedAt": "2026-05-26T09:41:06.573Z",
+  "generatedAt": "2026-05-26T13:37:46.731Z",
   "publicIndexUrl": "https://raw.githubusercontent.com/TruExpanse/truLive/main/trustore/release-index.json",
   "version": {
-    "wordpress": "0.1.4"
+    "wordpress": "0.1.5"
   },
   "wordpress": {
     "artifacts": [
       {
         "package": "truestore-plugin",
-        "version": "0.1.4",
-        "filename": "truestore-plugin-0.1.4.zip",
-        "checksum": "sha256:233225250ecea298e0c8837181e1a147ff82c025c4789d9c28be18a2254f2f16",
+        "version": "0.1.5",
+        "filename": "truestore-plugin-0.1.5.zip",
+        "checksum": "sha256:6888fb4ac769215dcecf570011dbd57595c1d4b7baa5c2f2b6117857fdb9d51c",
         "entryCount": 5,
         "mainFile": "truestore-plugin/truestore.php"
       },
       {
         "package": "truexpanse-export-adapter",
-        "version": "0.1.4",
-        "filename": "truexpanse-export-adapter-0.1.4.zip",
-        "checksum": "sha256:11dc8ce077ace0e600eca21a3dd0c0f01fd2cb4832910ee240ce36a1de510cab",
+        "version": "0.1.5",
+        "filename": "truexpanse-export-adapter-0.1.5.zip",
+        "checksum": "sha256:af92122f57238e93f50eb0ca5ff47f8944312ef4d5d2567c62630675ab15f673",
         "entryCount": 3,
         "mainFile": "truexpanse-export-adapter/truestore-truexpanse-export-adapter.php"
       }
